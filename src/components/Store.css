@@ -1,0 +1,20 @@
+.store-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  gap: 3rem;
+  justify-content: center;
+}
+.title {
+  text-align: center;
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+.product {
+  width: 160px;
+  font-size: 0.75rem;
+  font-weight: 400;
+  padding: 0.5rem 1rem;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
